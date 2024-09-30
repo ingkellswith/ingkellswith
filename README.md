@@ -8,7 +8,7 @@
 [<img src="https://img.shields.io/badge/GitHub-Act_like_Minions-FFCD00?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/UnrealField/Act-like-Minions)
 [<img src="https://img.shields.io/badge/WebGL-CAU_Planet-146EF5?style=flat-square&logo=WebGL&logoColor=white"/>](https://metacau.ingkells.com/)
 
-### 📚 Tech Stack
+### 📚 Skills
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=C%23&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=C%2B%2B&logoColor=white)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-FF7800?style=flat&logo=Java&logoColor=orange)&nbsp;
