@@ -1,6 +1,6 @@
 <div align=center>
 
-### ✍️ As a Game Client Programmer, I developed and launched the following projects.
+### ✍️ As a Game Client Programmer, I developed and launched the following project.
 
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/3e/dc/8a3edc30-c7cd-eba6-6aeb-2205f7bded2a/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/434x0w.webp" width="100">
 
